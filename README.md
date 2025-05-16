@@ -16,8 +16,7 @@ Machine Learning algorithms for improved accuracy
 
 
 
-!(https://live.staticflickr.com/4704/39225139155_fd0c8fbdec_b.jpg)
-
+![face_sample](https://github.com/user-attachments/assets/fca93a5a-ee5e-4f29-ad6e-f92cb602a788)
 
 Here's a breakdown of the process:
 
